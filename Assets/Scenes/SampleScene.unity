@@ -21647,11 +21647,36 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.6
       objectReference: {fileID: 0}
+    - target: {fileID: -7935508977099834096, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57a8c0e58799c6a438e03e6c4d9ed6b8, type: 2}
+    - target: {fileID: -7406986693284843939, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fe35c72c420f7af4d904f5e65f3745ad, type: 2}
+    - target: {fileID: -3853516116577157241, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fe35c72c420f7af4d904f5e65f3745ad, type: 2}
+    - target: {fileID: -3474589170936059715, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bd25409ecf73705448f40b1519e89ab6, type: 2}
     - target: {fileID: 919132149155446097, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
         type: 3}
       propertyPath: m_Name
       value: chairaula (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5709487493315010576, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57a8c0e58799c6a438e03e6c4d9ed6b8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 570866e2a00b3c74da03eac3f0e6b9ed, type: 3}
 --- !u!1001 &759812850
@@ -33037,7 +33062,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4757723854870162, guid: 6d513e3e97508a3429bc5eac2b8b7145, type: 3}
       propertyPath: m_RootOrder
-      value: 809
+      value: 810
       objectReference: {fileID: 0}
     - target: {fileID: 4757723854870162, guid: 6d513e3e97508a3429bc5eac2b8b7145, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -46069,11 +46094,36 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.6
       objectReference: {fileID: 0}
+    - target: {fileID: -7935508977099834096, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57a8c0e58799c6a438e03e6c4d9ed6b8, type: 2}
+    - target: {fileID: -7406986693284843939, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fe35c72c420f7af4d904f5e65f3745ad, type: 2}
+    - target: {fileID: -3853516116577157241, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fe35c72c420f7af4d904f5e65f3745ad, type: 2}
+    - target: {fileID: -3474589170936059715, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bd25409ecf73705448f40b1519e89ab6, type: 2}
     - target: {fileID: 919132149155446097, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
         type: 3}
       propertyPath: m_Name
       value: chairaula
       objectReference: {fileID: 0}
+    - target: {fileID: 5709487493315010576, guid: 570866e2a00b3c74da03eac3f0e6b9ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57a8c0e58799c6a438e03e6c4d9ed6b8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 570866e2a00b3c74da03eac3f0e6b9ed, type: 3}
 --- !u!1001 &1588190974
