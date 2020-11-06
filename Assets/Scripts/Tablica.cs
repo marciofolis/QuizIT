@@ -11,9 +11,10 @@ public class Tablica : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerStay(Collider other)
     {
-        if (other.tag == "Player")
+        Debug.Log("This will be called every frame");
+        if (Input.GetKeyDown(KeyCode.F))
         {
             anim.SetBool("tablica", true);
         }
